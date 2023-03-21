@@ -1,5 +1,5 @@
 import os
-from snowflake.snowpark import Session
+from snowflake.connector
 connection_parameters = {
 "account":"ifb03328.prod3.us-west-2.aws",
 "user":"VINOTHA",
